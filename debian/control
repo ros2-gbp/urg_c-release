@@ -1,0 +1,12 @@
+Source: ros-eloquent-urg-c
+Section: misc
+Priority: optional
+Maintainer: Chad Rockey <chadrockey@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-eloquent-ament-cmake, ros-eloquent-ros-workspace
+Homepage: http://sourceforge.net/projects/urgwidget/
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-urg-c
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-ros-workspace
+Description: The urg_c package
