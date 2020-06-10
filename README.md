@@ -1,3 +1,26 @@
+## urg_c (foxy) - 1.0.4001-1
+
+The packages in the `urg_c` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy -t foxy urg_c` on `Wed, 10 Jun 2020 17:52:39 -0000`
+
+The `urg_c` package was released.
+
+Version of package(s) in repository `urg_c`:
+
+- upstream repository: https://github.com/ros-drivers/urg_c.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.4001-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## urg_c (eloquent) - 1.0.4000-1
 
 The packages in the `urg_c` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --track eloquent --rosdistro eloquent urg_c` on `Tue, 17 Mar 2020 12:55:32 -0000`
