@@ -1,0 +1,12 @@
+Source: ros-galactic-urg-c
+Section: misc
+Priority: optional
+Maintainer: Michael Ferguson <mfergs7@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ros-workspace
+Homepage: http://sourceforge.net/projects/urgwidget/
+Standards-Version: 3.9.2
+
+Package: ros-galactic-urg-c
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-ros-workspace
+Description: The urg_c package
